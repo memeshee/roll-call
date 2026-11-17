@@ -1,0 +1,1634 @@
+[
+ {
+  "serial": 1,
+  "name": "Richard RichiH Hartmann",
+  "code": "MTQ-4ZT",
+  "density": 63,
+  "sheet": {
+   "index": 1,
+   "of": 11,
+   "slot": 1
+  },
+  "weave": "101001100101120201102021101031130101110101101011111001100111",
+  "files": {
+   "email": "email/richard-richih-hartmann.html",
+   "page": "pages/richard-richih-hartmann.html",
+   "card": "cards/richard-richih-hartmann.png"
+  }
+ },
+ {
+  "serial": 2,
+  "name": "Bernat Romagosa",
+  "code": "RRU-HD2",
+  "density": 63,
+  "sheet": {
+   "index": 1,
+   "of": 11,
+   "slot": 2
+  },
+  "weave": "111001100111100101101001120101101021101031130101100211112001",
+  "files": {
+   "email": "email/bernat-romagosa.html",
+   "page": "pages/bernat-romagosa.html",
+   "card": "cards/bernat-romagosa.png"
+  }
+ },
+ {
+  "serial": 3,
+  "name": "John Maloney",
+  "code": "5TB-HUF",
+  "density": 70,
+  "sheet": {
+   "index": 1,
+   "of": 11,
+   "slot": 3
+  },
+  "weave": "200021120002101011110101111201102111101031130101121101101121",
+  "files": {
+   "email": "email/john-maloney.html",
+   "page": "pages/john-maloney.html",
+   "card": "cards/john-maloney.png"
+  }
+ },
+ {
+  "serial": 4,
+  "name": "Jens Mönig",
+  "code": "68H-SCY",
+  "density": 60,
+  "sheet": {
+   "index": 1,
+   "of": 11,
+   "slot": 4
+  },
+  "weave": "101201102101101001100101100002200001132011110231102101101201",
+  "files": {
+   "email": "email/jens-monig.html",
+   "page": "pages/jens-monig.html",
+   "card": "cards/jens-monig.png"
+  }
+ },
+ {
+  "serial": 5,
+  "name": "Jadga Huegle",
+  "code": "H45-G86",
+  "density": 57,
+  "sheet": {
+   "index": 1,
+   "of": 11,
+   "slot": 5
+  },
+  "weave": "110101101011100011110001101002200101201001100102101301103101",
+  "files": {
+   "email": "email/jadga-huegle.html",
+   "page": "pages/jadga-huegle.html",
+   "card": "cards/jadga-huegle.png"
+  }
+ },
+ {
+  "serial": 6,
+  "name": "Laura Durieux",
+  "code": "XMC-PFK",
+  "density": 67,
+  "sheet": {
+   "index": 1,
+   "of": 11,
+   "slot": 6
+  },
+  "weave": "110011110011102231132201102101101201110021120011101001100101",
+  "files": {
+   "email": "email/laura-durieux.html",
+   "page": "pages/laura-durieux.html",
+   "card": "cards/laura-durieux.png"
+  }
+ },
+ {
+  "serial": 7,
+  "name": "Amreen Taneja",
+  "code": "K47-G56",
+  "density": 63,
+  "sheet": {
+   "index": 1,
+   "of": 11,
+   "slot": 7
+  },
+  "weave": "110021120011200001100002200201102002102311113201101211112101",
+  "files": {
+   "email": "email/amreen-taneja.html",
+   "page": "pages/amreen-taneja.html",
+   "card": "cards/amreen-taneja.png"
+  }
+ },
+ {
+  "serial": 8,
+  "name": "Miguel Ojeda",
+  "code": "DWC-2ZJ",
+  "density": 67,
+  "sheet": {
+   "index": 1,
+   "of": 11,
+   "slot": 8
+  },
+  "weave": "131101101131101201102101200011110002111001100111101021120101",
+  "files": {
+   "email": "email/miguel-ojeda.html",
+   "page": "pages/miguel-ojeda.html",
+   "card": "cards/miguel-ojeda.png"
+  }
+ },
+ {
+  "serial": 9,
+  "name": "Sylvestre Ledru",
+  "code": "ZB6-EYY",
+  "density": 60,
+  "sheet": {
+   "index": 1,
+   "of": 11,
+   "slot": 9
+  },
+  "weave": "102001100201131001100131110101101011112001100211120001100021",
+  "files": {
+   "email": "email/sylvestre-ledru.html",
+   "page": "pages/sylvestre-ledru.html",
+   "card": "cards/sylvestre-ledru.png"
+  }
+ },
+ {
+  "serial": 10,
+  "name": "James Bottomley",
+  "code": "N5C-3ES",
+  "density": 67,
+  "sheet": {
+   "index": 2,
+   "of": 11,
+   "slot": 1
+  },
+  "weave": "100311113001122001100221101101101101110021120011101101101101",
+  "files": {
+   "email": "email/james-bottomley.html",
+   "page": "pages/james-bottomley.html",
+   "card": "cards/james-bottomley.png"
+  }
+ },
+ {
+  "serial": 11,
+  "name": "Lennart Poettering",
+  "code": "Q93-RHC",
+  "density": 70,
+  "sheet": {
+   "index": 2,
+   "of": 11,
+   "slot": 2
+  },
+  "weave": "101011110101202011110202102201102201102311113201110011110011",
+  "files": {
+   "email": "email/lennart-poettering.html",
+   "page": "pages/lennart-poettering.html",
+   "card": "cards/lennart-poettering.png"
+  }
+ },
+ {
+  "serial": 12,
+  "name": "Dawn M Foster",
+  "code": "5AH-TQ5",
+  "density": 67,
+  "sheet": {
+   "index": 2,
+   "of": 11,
+   "slot": 3
+  },
+  "weave": "220001100022110201102011131001100131122201102221111001100111",
+  "files": {
+   "email": "email/dawn-m-foster.html",
+   "page": "pages/dawn-m-foster.html",
+   "card": "cards/dawn-m-foster.png"
+  }
+ },
+ {
+  "serial": 13,
+  "name": "Brian Proffitt",
+  "code": "8JP-EQJ",
+  "density": 63,
+  "sheet": {
+   "index": 2,
+   "of": 11,
+   "slot": 4
+  },
+  "weave": "101121121101110301103011101002200101100101101001110011110011",
+  "files": {
+   "email": "email/brian-proffitt.html",
+   "page": "pages/brian-proffitt.html",
+   "card": "cards/brian-proffitt.png"
+  }
+ },
+ {
+  "serial": 14,
+  "name": "Stephen Walli",
+  "code": "YTG-SWM",
+  "density": 70,
+  "sheet": {
+   "index": 2,
+   "of": 11,
+   "slot": 5
+  },
+  "weave": "131021120131102101101201121001100121101022220101120021120021",
+  "files": {
+   "email": "email/stephen-walli.html",
+   "page": "pages/stephen-walli.html",
+   "card": "cards/stephen-walli.png"
+  }
+ },
+ {
+  "serial": 15,
+  "name": "Ben Ford",
+  "code": "XZ5-XKN",
+  "density": 67,
+  "sheet": {
+   "index": 2,
+   "of": 11,
+   "slot": 6
+  },
+  "weave": "100302203001101101101101102111111201100111111001100211112001",
+  "files": {
+   "email": "email/ben-ford.html",
+   "page": "pages/ben-ford.html",
+   "card": "cards/ben-ford.png"
+  }
+ },
+ {
+  "serial": 16,
+  "name": "Steven Goodwin",
+  "code": "TKS-X7S",
+  "density": 60,
+  "sheet": {
+   "index": 2,
+   "of": 11,
+   "slot": 7
+  },
+  "weave": "101101101101100112211001202001100202130012210031110001100011",
+  "files": {
+   "email": "email/steven-goodwin.html",
+   "page": "pages/steven-goodwin.html",
+   "card": "cards/steven-goodwin.png"
+  }
+ },
+ {
+  "serial": 17,
+  "name": "Margaret Tucker",
+  "code": "BBP-HAR",
+  "density": 70,
+  "sheet": {
+   "index": 2,
+   "of": 11,
+   "slot": 8
+  },
+  "weave": "102101101201112201102211120001100021101011110101102231132201",
+  "files": {
+   "email": "email/margaret-tucker.html",
+   "page": "pages/margaret-tucker.html",
+   "card": "cards/margaret-tucker.png"
+  }
+ },
+ {
+  "serial": 18,
+  "name": "Marco Castelluccio",
+  "code": "VHK-P2A",
+  "density": 60,
+  "sheet": {
+   "index": 2,
+   "of": 11,
+   "slot": 9
+  },
+  "weave": "210001100012103001100301101101101101101021120101102101101201",
+  "files": {
+   "email": "email/marco-castelluccio.html",
+   "page": "pages/marco-castelluccio.html",
+   "card": "cards/marco-castelluccio.png"
+  }
+ },
+ {
+  "serial": 19,
+  "name": "Doug Gregor",
+  "code": "X3H-SRP",
+  "density": 70,
+  "sheet": {
+   "index": 3,
+   "of": 11,
+   "slot": 1
+  },
+  "weave": "112001100211101001100101111301103111112001100211102111111201",
+  "files": {
+   "email": "email/doug-gregor.html",
+   "page": "pages/doug-gregor.html",
+   "card": "cards/doug-gregor.png"
+  }
+ },
+ {
+  "serial": 20,
+  "name": "Nils Goroll (slink)",
+  "code": "RWC-KQ9",
+  "density": 67,
+  "sheet": {
+   "index": 3,
+   "of": 11,
+   "slot": 2
+  },
+  "weave": "121001100121100022220001101201102101121301103121120011110021",
+  "files": {
+   "email": "email/nils-goroll-slink.html",
+   "page": "pages/nils-goroll-slink.html",
+   "card": "cards/nils-goroll-slink.png"
+  }
+ },
+ {
+  "serial": 21,
+  "name": "Gerald Combs",
+  "code": "M55-VG2",
+  "density": 60,
+  "sheet": {
+   "index": 3,
+   "of": 11,
+   "slot": 3
+  },
+  "weave": "201201102102110101101011200002200002132011110231120001100021",
+  "files": {
+   "email": "email/gerald-combs.html",
+   "page": "pages/gerald-combs.html",
+   "card": "cards/gerald-combs.png"
+  }
+ },
+ {
+  "serial": 22,
+  "name": "Nigel Douglas",
+  "code": "KRX-NHT",
+  "density": 73,
+  "sheet": {
+   "index": 3,
+   "of": 11,
+   "slot": 4
+  },
+  "weave": "122001100221101011110101110111111011100111111001221031130122",
+  "files": {
+   "email": "email/nigel-douglas.html",
+   "page": "pages/nigel-douglas.html",
+   "card": "cards/nigel-douglas.png"
+  }
+ },
+ {
+  "serial": 23,
+  "name": "Olle E. Johansson",
+  "code": "GR8-2EQ",
+  "density": 63,
+  "sheet": {
+   "index": 3,
+   "of": 11,
+   "slot": 5
+  },
+  "weave": "130002200031120111111021102021120201111011110111100001100001",
+  "files": {
+   "email": "email/olle-e-johansson.html",
+   "page": "pages/olle-e-johansson.html",
+   "card": "cards/olle-e-johansson.png"
+  }
+ },
+ {
+  "serial": 24,
+  "name": "Kate Stewart",
+  "code": "8Q9-V76",
+  "density": 60,
+  "sheet": {
+   "index": 3,
+   "of": 11,
+   "slot": 6
+  },
+  "weave": "101201102101200111111002113201102311100102201001100001100001",
+  "files": {
+   "email": "email/kate-stewart.html",
+   "page": "pages/kate-stewart.html",
+   "card": "cards/kate-stewart.png"
+  }
+ },
+ {
+  "serial": 25,
+  "name": "Rex Ha",
+  "code": "7XS-BTZ",
+  "density": 63,
+  "sheet": {
+   "index": 3,
+   "of": 11,
+   "slot": 7
+  },
+  "weave": "102001100201103101101301100211112001102201102201101101101101",
+  "files": {
+   "email": "email/rex-ha.html",
+   "page": "pages/rex-ha.html",
+   "card": "cards/rex-ha.png"
+  }
+ },
+ {
+  "serial": 26,
+  "name": "Bruce Momjian",
+  "code": "PQM-STC",
+  "density": 57,
+  "sheet": {
+   "index": 3,
+   "of": 11,
+   "slot": 8
+  },
+  "weave": "100011110001100101101001203101101302220201102022110001100011",
+  "files": {
+   "email": "email/bruce-momjian.html",
+   "page": "pages/bruce-momjian.html",
+   "card": "cards/bruce-momjian.png"
+  }
+ },
+ {
+  "serial": 27,
+  "name": "Kristof Beyls",
+  "code": "RQB-JUZ",
+  "density": 70,
+  "sheet": {
+   "index": 3,
+   "of": 11,
+   "slot": 9
+  },
+  "weave": "110101101011103221122301110101101011100111111001111001100111",
+  "files": {
+   "email": "email/kristof-beyls.html",
+   "page": "pages/kristof-beyls.html",
+   "card": "cards/kristof-beyls.png"
+  }
+ },
+ {
+  "serial": 28,
+  "name": "Peter Smith",
+  "code": "GYW-NKH",
+  "density": 60,
+  "sheet": {
+   "index": 4,
+   "of": 11,
+   "slot": 1
+  },
+  "weave": "110011110011100012210001121101101121120001100021130002200031",
+  "files": {
+   "email": "email/peter-smith.html",
+   "page": "pages/peter-smith.html",
+   "card": "cards/peter-smith.png"
+  }
+ },
+ {
+  "serial": 29,
+  "name": "Marius Brehler",
+  "code": "JBH-GAX",
+  "density": 53,
+  "sheet": {
+   "index": 4,
+   "of": 11,
+   "slot": 2
+  },
+  "weave": "120001100021100021120001130001100031110021120011102001100201",
+  "files": {
+   "email": "email/marius-brehler.html",
+   "page": "pages/marius-brehler.html",
+   "card": "cards/marius-brehler.png"
+  }
+ },
+ {
+  "serial": 30,
+  "name": "Mikhail Gudim",
+  "code": "V93-V5A",
+  "density": 63,
+  "sheet": {
+   "index": 4,
+   "of": 11,
+   "slot": 3
+  },
+  "weave": "120101101021100121121001100011110001102021120201101301103101",
+  "files": {
+   "email": "email/mikhail-gudim.html",
+   "page": "pages/mikhail-gudim.html",
+   "card": "cards/mikhail-gudim.png"
+  }
+ },
+ {
+  "serial": 31,
+  "name": "Jon Chesterfield",
+  "code": "XBC-6HM",
+  "density": 60,
+  "sheet": {
+   "index": 4,
+   "of": 11,
+   "slot": 4
+  },
+  "weave": "200101101002101001100101110201102011102231132201100201102001",
+  "files": {
+   "email": "email/jon-chesterfield.html",
+   "page": "pages/jon-chesterfield.html",
+   "card": "cards/jon-chesterfield.png"
+  }
+ },
+ {
+  "serial": 32,
+  "name": "Tim Heldmann",
+  "code": "8KK-MWU",
+  "density": 60,
+  "sheet": {
+   "index": 4,
+   "of": 11,
+   "slot": 5
+  },
+  "weave": "101101101101112001100211200101101002100101101001130102201031",
+  "files": {
+   "email": "email/tim-heldmann.html",
+   "page": "pages/tim-heldmann.html",
+   "card": "cards/tim-heldmann.png"
+  }
+ },
+ {
+  "serial": 33,
+  "name": "Peter Arzt",
+  "code": "ZUX-7C2",
+  "density": 67,
+  "sheet": {
+   "index": 4,
+   "of": 11,
+   "slot": 6
+  },
+  "weave": "201001100102100112211001130221122031121101101121100022220001",
+  "files": {
+   "email": "email/peter-arzt.html",
+   "page": "pages/peter-arzt.html",
+   "card": "cards/peter-arzt.png"
+  }
+ },
+ {
+  "serial": 34,
+  "name": "Jorn Tuyls",
+  "code": "BF2-EG2",
+  "density": 53,
+  "sheet": {
+   "index": 4,
+   "of": 11,
+   "slot": 7
+  },
+  "weave": "100202202001100032230001110002200011101202202101100102201001",
+  "files": {
+   "email": "email/jorn-tuyls.html",
+   "page": "pages/jorn-tuyls.html",
+   "card": "cards/jorn-tuyls.png"
+  }
+ },
+ {
+  "serial": 35,
+  "name": "Jan-Patrick Lehr",
+  "code": "EB6-B6J",
+  "density": 70,
+  "sheet": {
+   "index": 4,
+   "of": 11,
+   "slot": 8
+  },
+  "weave": "212001100212202101101202111101101111111001100111223001100322",
+  "files": {
+   "email": "email/jan-patrick-lehr.html",
+   "page": "pages/jan-patrick-lehr.html",
+   "card": "cards/jan-patrick-lehr.png"
+  }
+ },
+ {
+  "serial": 36,
+  "name": "Alexander Zaitsev",
+  "code": "W4T-ZA8",
+  "density": 57,
+  "sheet": {
+   "index": 4,
+   "of": 11,
+   "slot": 9
+  },
+  "weave": "101001100101100131131001121001100121101102201101200001100002",
+  "files": {
+   "email": "email/alexander-zaitsev.html",
+   "page": "pages/alexander-zaitsev.html",
+   "card": "cards/alexander-zaitsev.png"
+  }
+ },
+ {
+  "serial": 37,
+  "name": "Jose E. Marchesi",
+  "code": "P8V-CHQ",
+  "density": 70,
+  "sheet": {
+   "index": 5,
+   "of": 11,
+   "slot": 1
+  },
+  "weave": "110101101011101021120101111001100111102201102201131101101131",
+  "files": {
+   "email": "email/jose-e-marchesi.html",
+   "page": "pages/jose-e-marchesi.html",
+   "card": "cards/jose-e-marchesi.png"
+  }
+ },
+ {
+  "serial": 38,
+  "name": "Thomas Schwinge",
+  "code": "5HQ-BBY",
+  "density": 57,
+  "sheet": {
+   "index": 5,
+   "of": 11,
+   "slot": 2
+  },
+  "weave": "100002200001100102201001101011110101100122221001120031130021",
+  "files": {
+   "email": "email/thomas-schwinge.html",
+   "page": "pages/thomas-schwinge.html",
+   "card": "cards/thomas-schwinge.png"
+  }
+ },
+ {
+  "serial": 39,
+  "name": "Marc Poulhiès",
+  "code": "JMW-KB9",
+  "density": 60,
+  "sheet": {
+   "index": 5,
+   "of": 11,
+   "slot": 3
+  },
+  "weave": "100102201001100221122001101021120101100201102001113001100311",
+  "files": {
+   "email": "email/marc-poulhies.html",
+   "page": "pages/marc-poulhies.html",
+   "card": "cards/marc-poulhies.png"
+  }
+ },
+ {
+  "serial": 40,
+  "name": "Falco Girgis",
+  "code": "EZB-GFM",
+  "density": 57,
+  "sheet": {
+   "index": 5,
+   "of": 11,
+   "slot": 4
+  },
+  "weave": "200102201002101001100101103201102301110101101011101001100101",
+  "files": {
+   "email": "email/falco-girgis.html",
+   "page": "pages/falco-girgis.html",
+   "card": "cards/falco-girgis.png"
+  }
+ },
+ {
+  "serial": 41,
+  "name": "Javier Martinez",
+  "code": "RVG-M53",
+  "density": 70,
+  "sheet": {
+   "index": 5,
+   "of": 11,
+   "slot": 5
+  },
+  "weave": "120011110021122001100221111001100111130112211031122001100221",
+  "files": {
+   "email": "email/javier-martinez.html",
+   "page": "pages/javier-martinez.html",
+   "card": "cards/javier-martinez.png"
+  }
+ },
+ {
+  "serial": 42,
+  "name": "Jeremy Bennett",
+  "code": "7YV-85P",
+  "density": 73,
+  "sheet": {
+   "index": 5,
+   "of": 11,
+   "slot": 6
+  },
+  "weave": "101111111101102101101201121011110121102201102201203011110302",
+  "files": {
+   "email": "email/jeremy-bennett.html",
+   "page": "pages/jeremy-bennett.html",
+   "card": "cards/jeremy-bennett.png"
+  }
+ },
+ {
+  "serial": 43,
+  "name": "Alexandra Petlanova Hajkova",
+  "code": "P5A-P7G",
+  "density": 67,
+  "sheet": {
+   "index": 5,
+   "of": 11,
+   "slot": 7
+  },
+  "weave": "121002200121100211112001210001100012113021120311110101101011",
+  "files": {
+   "email": "email/alexandra-petlanova-hajkova.html",
+   "page": "pages/alexandra-petlanova-hajkova.html",
+   "card": "cards/alexandra-petlanova-hajkova.png"
+  }
+ },
+ {
+  "serial": 44,
+  "name": "James Lowden",
+  "code": "A2G-A2R",
+  "density": 63,
+  "sheet": {
+   "index": 5,
+   "of": 11,
+   "slot": 8
+  },
+  "weave": "100211112001201321123102120021120021100212212001100001100001",
+  "files": {
+   "email": "email/james-lowden.html",
+   "page": "pages/james-lowden.html",
+   "card": "cards/james-lowden.png"
+  }
+ },
+ {
+  "serial": 45,
+  "name": "Filip Kastl",
+  "code": "S2T-5KM",
+  "density": 67,
+  "sheet": {
+   "index": 5,
+   "of": 11,
+   "slot": 9
+  },
+  "weave": "210101101012103201102301101001100101101101101101102111111201",
+  "files": {
+   "email": "email/filip-kastl.html",
+   "page": "pages/filip-kastl.html",
+   "card": "cards/filip-kastl.png"
+  }
+ },
+ {
+  "serial": 46,
+  "name": "Michal Jireš",
+  "code": "J5F-BCQ",
+  "density": 60,
+  "sheet": {
+   "index": 6,
+   "of": 11,
+   "slot": 1
+  },
+  "weave": "100211112001110301103011110002200011101001100101101101101101",
+  "files": {
+   "email": "email/michal-jires.html",
+   "page": "pages/michal-jires.html",
+   "card": "cards/michal-jires.png"
+  }
+ },
+ {
+  "serial": 47,
+  "name": "Mariam Arutunian",
+  "code": "H9D-QNC",
+  "density": 60,
+  "sheet": {
+   "index": 6,
+   "of": 11,
+   "slot": 2
+  },
+  "weave": "100201102001110011110011100221122001103201102301210001100012",
+  "files": {
+   "email": "email/mariam-arutunian.html",
+   "page": "pages/mariam-arutunian.html",
+   "card": "cards/mariam-arutunian.png"
+  }
+ },
+ {
+  "serial": 48,
+  "name": "Hayk Aslanyan",
+  "code": "3Z3-T8Z",
+  "density": 60,
+  "sheet": {
+   "index": 6,
+   "of": 11,
+   "slot": 3
+  },
+  "weave": "130101101031101101101101101011110101220001100022110001100011",
+  "files": {
+   "email": "email/hayk-aslanyan.html",
+   "page": "pages/hayk-aslanyan.html",
+   "card": "cards/hayk-aslanyan.png"
+  }
+ },
+ {
+  "serial": 49,
+  "name": "Johan Herland",
+  "code": "YYM-JK6",
+  "density": 60,
+  "sheet": {
+   "index": 6,
+   "of": 11,
+   "slot": 4
+  },
+  "weave": "210001100012100012210001121001100121100321123001101011110101",
+  "files": {
+   "email": "email/johan-herland.html",
+   "page": "pages/johan-herland.html",
+   "card": "cards/johan-herland.png"
+  }
+ },
+ {
+  "serial": 50,
+  "name": "Paul Cercueil",
+  "code": "PHW-527",
+  "density": 67,
+  "sheet": {
+   "index": 6,
+   "of": 11,
+   "slot": 5
+  },
+  "weave": "100121121001101311113101100012210001202101101202110021120011",
+  "files": {
+   "email": "email/paul-cercueil.html",
+   "page": "pages/paul-cercueil.html",
+   "card": "cards/paul-cercueil.png"
+  }
+ },
+ {
+  "serial": 51,
+  "name": "Sirisha Guduru",
+  "code": "A97-675",
+  "density": 67,
+  "sheet": {
+   "index": 6,
+   "of": 11,
+   "slot": 6
+  },
+  "weave": "110202202011101001100101100321123001121011110121121001100121",
+  "files": {
+   "email": "email/sirisha-guduru.html",
+   "page": "pages/sirisha-guduru.html",
+   "card": "cards/sirisha-guduru.png"
+  }
+ },
+ {
+  "serial": 52,
+  "name": "Joachim Kraftmayer",
+  "code": "PR4-VT4",
+  "density": 53,
+  "sheet": {
+   "index": 6,
+   "of": 11,
+   "slot": 7
+  },
+  "weave": "220201102022100031130001100201102001210001100012100101101001",
+  "files": {
+   "email": "email/joachim-kraftmayer.html",
+   "page": "pages/joachim-kraftmayer.html",
+   "card": "cards/joachim-kraftmayer.png"
+  }
+ },
+ {
+  "serial": 53,
+  "name": "Artem Torubarov",
+  "code": "PQS-EP7",
+  "density": 63,
+  "sheet": {
+   "index": 6,
+   "of": 11,
+   "slot": 8
+  },
+  "weave": "200021120002100111111001200111111002102012210201103022220301",
+  "files": {
+   "email": "email/artem-torubarov.html",
+   "page": "pages/artem-torubarov.html",
+   "card": "cards/artem-torubarov.png"
+  }
+ },
+ {
+  "serial": 54,
+  "name": "Shreyansh Sancheti",
+  "code": "3BU-X57",
+  "density": 67,
+  "sheet": {
+   "index": 6,
+   "of": 11,
+   "slot": 9
+  },
+  "weave": "100011110001101001100101112011110211123101101321120011110021",
+  "files": {
+   "email": "email/shreyansh-sancheti.html",
+   "page": "pages/shreyansh-sancheti.html",
+   "card": "cards/shreyansh-sancheti.png"
+  }
+ },
+ {
+  "serial": 55,
+  "name": "Jiffin Tony Thottan",
+  "code": "SPX-ZJ2",
+  "density": 70,
+  "sheet": {
+   "index": 7,
+   "of": 11,
+   "slot": 1
+  },
+  "weave": "111101101111120211112021120102201021101011110101103001100301",
+  "files": {
+   "email": "email/jiffin-tony-thottan.html",
+   "page": "pages/jiffin-tony-thottan.html",
+   "card": "cards/jiffin-tony-thottan.png"
+  }
+ },
+ {
+  "serial": 56,
+  "name": "Shriya Mulay",
+  "code": "9YZ-AZ5",
+  "density": 67,
+  "sheet": {
+   "index": 7,
+   "of": 11,
+   "slot": 2
+  },
+  "weave": "100211112001101011110101121001100121102011110201130011110031",
+  "files": {
+   "email": "email/shriya-mulay.html",
+   "page": "pages/shriya-mulay.html",
+   "card": "cards/shriya-mulay.png"
+  }
+ },
+ {
+  "serial": 57,
+  "name": "Vaishnavi Deshpande",
+  "code": "B2H-K8A",
+  "density": 63,
+  "sheet": {
+   "index": 7,
+   "of": 11,
+   "slot": 3
+  },
+  "weave": "201001100102100211112001100111111001131201102131200012210002",
+  "files": {
+   "email": "email/vaishnavi-deshpande.html",
+   "page": "pages/vaishnavi-deshpande.html",
+   "card": "cards/vaishnavi-deshpande.png"
+  }
+ },
+ {
+  "serial": 58,
+  "name": "Marcel Lauhoff",
+  "code": "8UE-5YG",
+  "density": 60,
+  "sheet": {
+   "index": 7,
+   "of": 11,
+   "slot": 4
+  },
+  "weave": "132002200231110011110011100011110001122001100221200101101002",
+  "files": {
+   "email": "email/marcel-lauhoff.html",
+   "page": "pages/marcel-lauhoff.html",
+   "card": "cards/marcel-lauhoff.png"
+  }
+ },
+ {
+  "serial": 59,
+  "name": "Sachin Prabhu",
+  "code": "NXT-P3P",
+  "density": 63,
+  "sheet": {
+   "index": 7,
+   "of": 11,
+   "slot": 5
+  },
+  "weave": "201101101102100221122001200101101002100312213001121002200121",
+  "files": {
+   "email": "email/sachin-prabhu.html",
+   "page": "pages/sachin-prabhu.html",
+   "card": "cards/sachin-prabhu.png"
+  }
+ },
+ {
+  "serial": 60,
+  "name": "Volker Lendecke",
+  "code": "VEG-PVR",
+  "density": 70,
+  "sheet": {
+   "index": 7,
+   "of": 11,
+   "slot": 6
+  },
+  "weave": "101012210101132011110231110101101011221001100122111001100111",
+  "files": {
+   "email": "email/volker-lendecke.html",
+   "page": "pages/volker-lendecke.html",
+   "card": "cards/volker-lendecke.png"
+  }
+ },
+ {
+  "serial": 61,
+  "name": "Federico Lucifredi",
+  "code": "JQA-F7R",
+  "density": 60,
+  "sheet": {
+   "index": 7,
+   "of": 11,
+   "slot": 7
+  },
+  "weave": "110012210011200201102002111001100111100021120001100132231001",
+  "files": {
+   "email": "email/federico-lucifredi.html",
+   "page": "pages/federico-lucifredi.html",
+   "card": "cards/federico-lucifredi.png"
+  }
+ },
+ {
+  "serial": 62,
+  "name": "Sage McTaggart",
+  "code": "VUB-V7F",
+  "density": 63,
+  "sheet": {
+   "index": 7,
+   "of": 11,
+   "slot": 8
+  },
+  "weave": "110102201011110002200011111031130111101101101101100011110001",
+  "files": {
+   "email": "email/sage-mctaggart.html",
+   "page": "pages/sage-mctaggart.html",
+   "card": "cards/sage-mctaggart.png"
+  }
+ },
+ {
+  "serial": 63,
+  "name": "Konstantinos Kampdais",
+  "code": "MCC-4YG",
+  "density": 67,
+  "sheet": {
+   "index": 7,
+   "of": 11,
+   "slot": 9
+  },
+  "weave": "101001100101131011110131102021120201100211112001101011110101",
+  "files": {
+   "email": "email/konstantinos-kampdais.html",
+   "page": "pages/konstantinos-kampdais.html",
+   "card": "cards/konstantinos-kampdais.png"
+  }
+ },
+ {
+  "serial": 64,
+  "name": "Abhishek Lekshmanan",
+  "code": "4ZU-GT2",
+  "density": 53,
+  "sheet": {
+   "index": 8,
+   "of": 11,
+   "slot": 1
+  },
+  "weave": "101001100101103002200301110001100011100022220001101201102101",
+  "files": {
+   "email": "email/abhishek-lekshmanan.html",
+   "page": "pages/abhishek-lekshmanan.html",
+   "card": "cards/abhishek-lekshmanan.png"
+  }
+ },
+ {
+  "serial": 65,
+  "name": "Guilherme Amadio",
+  "code": "MUD-P4R",
+  "density": 67,
+  "sheet": {
+   "index": 8,
+   "of": 11,
+   "slot": 2
+  },
+  "weave": "102101101201120001100021110121121011131011110131100202202001",
+  "files": {
+   "email": "email/guilherme-amadio.html",
+   "page": "pages/guilherme-amadio.html",
+   "card": "cards/guilherme-amadio.png"
+  }
+ },
+ {
+  "serial": 66,
+  "name": "Julien Leduc",
+  "code": "62M-X5S",
+  "density": 63,
+  "sheet": {
+   "index": 8,
+   "of": 11,
+   "slot": 3
+  },
+  "weave": "110101101011102001100201110021120011100111111001200131131002",
+  "files": {
+   "email": "email/julien-leduc.html",
+   "page": "pages/julien-leduc.html",
+   "card": "cards/julien-leduc.png"
+  }
+ },
+ {
+  "serial": 67,
+  "name": "Hugo Gonzalez Labrador",
+  "code": "542-5U7",
+  "density": 60,
+  "sheet": {
+   "index": 8,
+   "of": 11,
+   "slot": 4
+  },
+  "weave": "120001100021101002200101100101101001101011110101113011110311",
+  "files": {
+   "email": "email/hugo-gonzalez-labrador.html",
+   "page": "pages/hugo-gonzalez-labrador.html",
+   "card": "cards/hugo-gonzalez-labrador.png"
+  }
+ },
+ {
+  "serial": 68,
+  "name": "Martin Barisits",
+  "code": "2HU-3GY",
+  "density": 67,
+  "sheet": {
+   "index": 8,
+   "of": 11,
+   "slot": 5
+  },
+  "weave": "100131131001111201102111101001100101101101101101100121121001",
+  "files": {
+   "email": "email/martin-barisits.html",
+   "page": "pages/martin-barisits.html",
+   "card": "cards/martin-barisits.png"
+  }
+ },
+ {
+  "serial": 69,
+  "name": "Mattia Belluco",
+  "code": "4FG-RNH",
+  "density": 63,
+  "sheet": {
+   "index": 8,
+   "of": 11,
+   "slot": 6
+  },
+  "weave": "101011110101100211112001101301103101100101101001110011110011",
+  "files": {
+   "email": "email/mattia-belluco.html",
+   "page": "pages/mattia-belluco.html",
+   "card": "cards/mattia-belluco.png"
+  }
+ },
+ {
+  "serial": 70,
+  "name": "Patrick Donnelly",
+  "code": "DC3-8SY",
+  "density": 67,
+  "sheet": {
+   "index": 8,
+   "of": 11,
+   "slot": 7
+  },
+  "weave": "100111111001101001100101102002200201101231132101120111111021",
+  "files": {
+   "email": "email/patrick-donnelly.html",
+   "page": "pages/patrick-donnelly.html",
+   "card": "cards/patrick-donnelly.png"
+  }
+ },
+ {
+  "serial": 71,
+  "name": "Günther Deschner",
+  "code": "UY7-F8U",
+  "density": 67,
+  "sheet": {
+   "index": 8,
+   "of": 11,
+   "slot": 8
+  },
+  "weave": "110001100011100111111001110111111011131001100131101011110101",
+  "files": {
+   "email": "email/gunther-deschner.html",
+   "page": "pages/gunther-deschner.html",
+   "card": "cards/gunther-deschner.png"
+  }
+ },
+ {
+  "serial": 72,
+  "name": "Seongsoo Cho",
+  "code": "CUW-Z4R",
+  "density": 70,
+  "sheet": {
+   "index": 8,
+   "of": 11,
+   "slot": 9
+  },
+  "weave": "111101101111122001100221100211112001101031130101101101101101",
+  "files": {
+   "email": "email/seongsoo-cho.html",
+   "page": "pages/seongsoo-cho.html",
+   "card": "cards/seongsoo-cho.png"
+  }
+ },
+ {
+  "serial": 73,
+  "name": "Paul Meyer",
+  "code": "RN9-HWU",
+  "density": 60,
+  "sheet": {
+   "index": 9,
+   "of": 11,
+   "slot": 1
+  },
+  "weave": "210001100012100211112001101002200101110101101011130101101031",
+  "files": {
+   "email": "email/paul-meyer.html",
+   "page": "pages/paul-meyer.html",
+   "card": "cards/paul-meyer.png"
+  }
+ },
+ {
+  "serial": 74,
+  "name": "Bryan Honof",
+  "code": "323-4JN",
+  "density": 63,
+  "sheet": {
+   "index": 9,
+   "of": 11,
+   "slot": 2
+  },
+  "weave": "100111111001130111111031100102201001110001100011201011110102",
+  "files": {
+   "email": "email/bryan-honof.html",
+   "page": "pages/bryan-honof.html",
+   "card": "cards/bryan-honof.png"
+  }
+ },
+ {
+  "serial": 75,
+  "name": "Thomas Bereknyei",
+  "code": "MTU-ETZ",
+  "density": 73,
+  "sheet": {
+   "index": 9,
+   "of": 11,
+   "slot": 3
+  },
+  "weave": "102001100201100111111001110211112011111031130111122011110221",
+  "files": {
+   "email": "email/thomas-bereknyei.html",
+   "page": "pages/thomas-bereknyei.html",
+   "card": "cards/thomas-bereknyei.png"
+  }
+ },
+ {
+  "serial": 76,
+  "name": "Martin Schwaighofer",
+  "code": "4JV-MDS",
+  "density": 60,
+  "sheet": {
+   "index": 9,
+   "of": 11,
+   "slot": 4
+  },
+  "weave": "100311113001100021120001100111111001121001100121102001100201",
+  "files": {
+   "email": "email/martin-schwaighofer.html",
+   "page": "pages/martin-schwaighofer.html",
+   "card": "cards/martin-schwaighofer.png"
+  }
+ },
+ {
+  "serial": 77,
+  "name": "Ian Sollars",
+  "code": "FDE-47T",
+  "density": 53,
+  "sheet": {
+   "index": 9,
+   "of": 11,
+   "slot": 5
+  },
+  "weave": "100102201001101031130101110001100011100101101001110001100011",
+  "files": {
+   "email": "email/ian-sollars.html",
+   "page": "pages/ian-sollars.html",
+   "card": "cards/ian-sollars.png"
+  }
+ },
+ {
+  "serial": 78,
+  "name": "Sohel Sarder",
+  "code": "TCE-GAB",
+  "density": 63,
+  "sheet": {
+   "index": 9,
+   "of": 11,
+   "slot": 6
+  },
+  "weave": "101021120101102001100201101011110101120102201021131001100131",
+  "files": {
+   "email": "email/sohel-sarder.html",
+   "page": "pages/sohel-sarder.html",
+   "card": "cards/sohel-sarder.png"
+  }
+ },
+ {
+  "serial": 79,
+  "name": "Julien Malka",
+  "code": "TCC-BV8",
+  "density": 63,
+  "sheet": {
+   "index": 9,
+   "of": 11,
+   "slot": 7
+  },
+  "weave": "200001100002110012210011102021120201100312213001101211112101",
+  "files": {
+   "email": "email/julien-malka.html",
+   "page": "pages/julien-malka.html",
+   "card": "cards/julien-malka.png"
+  }
+ },
+ {
+  "serial": 80,
+  "name": "Colin Dean",
+  "code": "PHX-A9Z",
+  "density": 70,
+  "sheet": {
+   "index": 9,
+   "of": 11,
+   "slot": 8
+  },
+  "weave": "102121121201200221122002212001100212130101101031111001100111",
+  "files": {
+   "email": "email/colin-dean.html",
+   "page": "pages/colin-dean.html",
+   "card": "cards/colin-dean.png"
+  }
+ },
+ {
+  "serial": 81,
+  "name": "Claudio Bley",
+  "code": "NGZ-59N",
+  "density": 63,
+  "sheet": {
+   "index": 9,
+   "of": 11,
+   "slot": 9
+  },
+  "weave": "110002200011102202202201201321123102110101101011100021120001",
+  "files": {
+   "email": "email/claudio-bley.html",
+   "page": "pages/claudio-bley.html",
+   "card": "cards/claudio-bley.png"
+  }
+ },
+ {
+  "serial": 82,
+  "name": "Josh Lee",
+  "code": "MAC-R94",
+  "density": 60,
+  "sheet": {
+   "index": 10,
+   "of": 11,
+   "slot": 1
+  },
+  "weave": "100011110001210002200012102031130201201011110102110011110011",
+  "files": {
+   "email": "email/josh-lee.html",
+   "page": "pages/josh-lee.html",
+   "card": "cards/josh-lee.png"
+  }
+ },
+ {
+  "serial": 83,
+  "name": "Robert Hensing",
+  "code": "V5N-E6Q",
+  "density": 60,
+  "sheet": {
+   "index": 10,
+   "of": 11,
+   "slot": 2
+  },
+  "weave": "123021120321110001100011120011110021100201102001100202202001",
+  "files": {
+   "email": "email/robert-hensing.html",
+   "page": "pages/robert-hensing.html",
+   "card": "cards/robert-hensing.png"
+  }
+ },
+ {
+  "serial": 84,
+  "name": "Răzvan Crainea",
+  "code": "RK7-RV6",
+  "density": 63,
+  "sheet": {
+   "index": 10,
+   "of": 11,
+   "slot": 3
+  },
+  "weave": "101021120101112001100211120001100021100131131001110101101011",
+  "files": {
+   "email": "email/razvan-crainea.html",
+   "page": "pages/razvan-crainea.html",
+   "card": "cards/razvan-crainea.png"
+  }
+ },
+ {
+  "serial": 85,
+  "name": "Jehan Monnier",
+  "code": "7B4-SZV",
+  "density": 67,
+  "sheet": {
+   "index": 10,
+   "of": 11,
+   "slot": 4
+  },
+  "weave": "130011110031120101101021101001100101101121121101101011110101",
+  "files": {
+   "email": "email/jehan-monnier.html",
+   "page": "pages/jehan-monnier.html",
+   "card": "cards/jehan-monnier.png"
+  }
+ },
+ {
+  "serial": 86,
+  "name": "Nuno M Reis",
+  "code": "Y9H-XQ6",
+  "density": 60,
+  "sheet": {
+   "index": 10,
+   "of": 11,
+   "slot": 5
+  },
+  "weave": "110001100011101101101101103101101301101002200101102011110201",
+  "files": {
+   "email": "email/nuno-m-reis.html",
+   "page": "pages/nuno-m-reis.html",
+   "card": "cards/nuno-m-reis.png"
+  }
+ },
+ {
+  "serial": 87,
+  "name": "Tim Panton",
+  "code": "BU8-JJ6",
+  "density": 60,
+  "sheet": {
+   "index": 10,
+   "of": 11,
+   "slot": 6
+  },
+  "weave": "102002200201111021120111103101101301100011110001100201102001",
+  "files": {
+   "email": "email/tim-panton.html",
+   "page": "pages/tim-panton.html",
+   "card": "cards/tim-panton.png"
+  }
+ },
+ {
+  "serial": 88,
+  "name": "Maksym Sobolyev",
+  "code": "N5A-FBS",
+  "density": 67,
+  "sheet": {
+   "index": 10,
+   "of": 11,
+   "slot": 7
+  },
+  "weave": "210101101012220021120022120022220021210031130012101021120101",
+  "files": {
+   "email": "email/maksym-sobolyev.html",
+   "page": "pages/maksym-sobolyev.html",
+   "card": "cards/maksym-sobolyev.png"
+  }
+ },
+ {
+  "serial": 89,
+  "name": "Philippe Normand",
+  "code": "AGS-4KU",
+  "density": 63,
+  "sheet": {
+   "index": 10,
+   "of": 11,
+   "slot": 8
+  },
+  "weave": "202011110202130012210031100102201001110101101011101102201101",
+  "files": {
+   "email": "email/philippe-normand.html",
+   "page": "pages/philippe-normand.html",
+   "card": "cards/philippe-normand.png"
+  }
+ },
+ {
+  "serial": 90,
+  "name": "Henning Westerholt",
+  "code": "NHZ-UMB",
+  "density": 53,
+  "sheet": {
+   "index": 10,
+   "of": 11,
+   "slot": 9
+  },
+  "weave": "100101101001110001100011132001100231110001100011100101101001",
+  "files": {
+   "email": "email/henning-westerholt.html",
+   "page": "pages/henning-westerholt.html",
+   "card": "cards/henning-westerholt.png"
+  }
+ },
+ {
+  "serial": 91,
+  "name": "Rob Pickering",
+  "code": "HDV-XGS",
+  "density": 70,
+  "sheet": {
+   "index": 11,
+   "of": 11,
+   "slot": 1
+  },
+  "weave": "111201102111120011110021101011110101131001100131122001100221",
+  "files": {
+   "email": "email/rob-pickering.html",
+   "page": "pages/rob-pickering.html",
+   "card": "cards/rob-pickering.png"
+  }
+ },
+ {
+  "serial": 92,
+  "name": "Simon Ser",
+  "code": "R45-7QX",
+  "density": 63,
+  "sheet": {
+   "index": 11,
+   "of": 11,
+   "slot": 2
+  },
+  "weave": "101021120101103201102301101001100101102011110201102201102201",
+  "files": {
+   "email": "email/simon-ser.html",
+   "page": "pages/simon-ser.html",
+   "card": "cards/simon-ser.png"
+  }
+ },
+ {
+  "serial": 93,
+  "name": "Thomas Flament",
+  "code": "XAS-8QN",
+  "density": 63,
+  "sheet": {
+   "index": 11,
+   "of": 11,
+   "slot": 3
+  },
+  "weave": "110011110011200031130002220021120022120001100021102211112201",
+  "files": {
+   "email": "email/thomas-flament.html",
+   "page": "pages/thomas-flament.html",
+   "card": "cards/thomas-flament.png"
+  }
+ },
+ {
+  "serial": 94,
+  "name": "Dan Christian Bogos",
+  "code": "ZQP-FVU",
+  "density": 60,
+  "sheet": {
+   "index": 11,
+   "of": 11,
+   "slot": 4
+  },
+  "weave": "100221122001100112211001100011110001102001100201103012210301",
+  "files": {
+   "email": "email/dan-christian-bogos.html",
+   "page": "pages/dan-christian-bogos.html",
+   "card": "cards/dan-christian-bogos.png"
+  }
+ },
+ {
+  "serial": 95,
+  "name": "Tudor Avram",
+  "code": "6YC-P67",
+  "density": 63,
+  "sheet": {
+   "index": 11,
+   "of": 11,
+   "slot": 5
+  },
+  "weave": "100021120001200211112002112011110211200011110002103011110301",
+  "files": {
+   "email": "email/tudor-avram.html",
+   "page": "pages/tudor-avram.html",
+   "card": "cards/tudor-avram.png"
+  }
+ },
+ {
+  "serial": 96,
+  "name": "Răzvan Purdel",
+  "code": "DE2-7NG",
+  "density": 67,
+  "sheet": {
+   "index": 11,
+   "of": 11,
+   "slot": 6
+  },
+  "weave": "101011110101103021120301100121121001101201102101100121121001",
+  "files": {
+   "email": "email/razvan-purdel.html",
+   "page": "pages/razvan-purdel.html",
+   "card": "cards/razvan-purdel.png"
+  }
+ }
+]

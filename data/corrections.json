@@ -1,0 +1,20 @@
+[
+  {
+    "from": "Grace Vermeulen",
+    "to": "Grace Vermeulen-Bell",
+    "reason": "name misspelled on the first proof"
+  },
+  {
+    "from": "Mira Bennani",
+    "to": "Mira Bennani",
+    "ticket": "Keynote",
+    "reason": "upgraded to keynote after the first print"
+  },
+  {
+    "to": "Ada Lovelace",
+    "role": "Keynote",
+    "org": "Analytical Engines",
+    "ticket": "Speaker",
+    "reason": "late registration"
+  }
+]

@@ -8,7 +8,8 @@
     "check": "hyper-elements check templates/",
     "clients": "tsx scripts/clients.tsx",
     "people": "tsx scripts/gen-people.ts",
-    "shots": "bash scripts/shots.sh"
+    "shots": "bash scripts/shots.sh",
+    "corrections": "tsx scripts/corrections.tsx"
   },
   "keywords": [],
   "type": "module",

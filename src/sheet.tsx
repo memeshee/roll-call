@@ -41,14 +41,15 @@ export function Sheet({
   people,
   sheetIndex,
   sheetCount,
+  total,
   fonts,
 }: {
   people: { attendee: Attendee; serial: number }[];
   sheetIndex: number;
   sheetCount: number;
+  total: number;
   fonts?: any;
 }) {
-  const total = people.length ? undefined : undefined;
   return (
     <Document
       theme={assembly}
@@ -61,7 +62,7 @@ export function Sheet({
       style={{ backgroundColor: "#FFFFFF", gap: GUTTER }}
     >
       <Grid columns={3} stackOnMobile={false} style={{ gap: GUTTER, rowGap: GUTTER }}>
-        {people.map(({ attendee, serial }) => {
+        {people.map(({ attendee, serial }, slot) => {
           const cells = weave(attendee.name);
           return (
             <Column
@@ -79,9 +80,11 @@ export function Sheet({
                 <Column style={{ flex: 1 }}>
                   <Wordmark size={10} />
                 </Column>
-                <Column style={{ width: 74 }}>
+                <Column style={{ width: 96 }}>
                   <Stamp size={9} align="right">
-                    No. {String(serial).padStart(3, "0")}/240
+                    No. {String(serial).padStart(3, "0")}/{total}
+                    <LineBreak />
+                    S{String(sheetIndex).padStart(2, "0")}·{String(slot).padStart(2, "0")}
                   </Stamp>
                 </Column>
               </Row>
@@ -142,7 +145,7 @@ export function Sheet({
           </Column>
           <Column style={{ width: 150 }}>
             <Stamp size={9} align="right">
-              Sheet <PageNumber /> of <PageNumber total />
+              Sheet <PageNumber /> of <PageNumber total /> · collate by slot
             </Stamp>
           </Column>
         </Row>

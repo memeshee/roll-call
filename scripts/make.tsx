@@ -20,12 +20,15 @@ import { emailClients } from "@hyper-elements/email-clients";
 
 import BadgeEmail from "../src/badge-email.js";
 import BadgePage from "../src/badge-page.js";
-import Wall from "../src/wall.js";
 import { StoryCard } from "../src/card.js";
 import { Sheet, PER_SHEET } from "../src/sheet.js";
 import { loadAttendees } from "../src/data.js";
+import { EVENT } from "../src/components.js";
+
+const EVENT_DATES = EVENT.dates;
+const EVENT_CITY = EVENT.city;
 import { FILES, fontBytes, fontFacesAt } from "../src/fonts.js";
-import { code, density, weave } from "../src/weave.js";
+import { assertWeave, code, density, weave } from "../src/weave.js";
 
 // ---- arguments -------------------------------------------------------------
 const args = process.argv.slice(2);
@@ -74,6 +77,10 @@ const sheetOf = (serial: number) => ({
 });
 const people = attendees.map((attendee, i) => ({ attendee, serial: i + 1 }));
 
+// The quality floor, before a single file is written: every name's weave has to
+// clear the invariants in weave.ts, or the run stops and says whose badge broke.
+for (const { attendee } of people) assertWeave(attendee.name);
+
 // Distinct names must give distinct weaves: the whole claim of the kit.
 const patterns = new Set(people.map(({ attendee }) => weave(attendee.name).join("")));
 const collisions = people.length - patterns.size;
@@ -91,9 +98,8 @@ const first = people[0];
 const gate = [
   ["welcome email", <BadgeEmail attendee={first.attendee} serial={1} total={total} sheet={sheetOf(1)} />],
   ["badge page", <BadgePage attendee={first.attendee} serial={1} total={total} fonts={faces} sheet={sheetOf(1)} />],
-  ["print sheet", <Sheet people={people.slice(0, PER_SHEET)} sheetIndex={1} sheetCount={sheetCount} fonts={faces} />],
+  ["print sheet", <Sheet people={people.slice(0, PER_SHEET)} sheetIndex={1} sheetCount={sheetCount} total={total} fonts={faces} />],
   ["story card", <StoryCard attendee={first.attendee} serial={1} total={total} />],
-  ["wall", <Wall people={people.slice(0, 6)} fonts={faces} />],
 ] as const;
 
 // The email also gets the client models: what classic Outlook, Gmail and Apple
@@ -155,6 +161,14 @@ if (wants("card")) {
     );
     collect("story card", diagnostics as Note[]);
     await writeFile(join(OUT, "cards", `${slug(attendee.name)}.png`), image);
+    // A caption ready to paste, so posting the card is one copy and one paste.
+    await writeFile(
+      join(OUT, "cards", `${slug(attendee.name)}.txt`),
+      `${attendee.name} — ${attendee.role} at ${attendee.org}.\n` +
+        `Assembly 3.0 · ${EVENT_DATES} · ${EVENT_CITY}. Badge No. ${String(serial).padStart(3, "0")}/${total}, ` +
+        `code ${code(attendee.name)}.\n` +
+        `My weave is a hash of my name: the same 12×5 pattern on the printed sheet, in the welcome email and here.\n`
+    );
   });
 }
 
@@ -163,18 +177,12 @@ if (wants("sheets")) {
   const chunks = Array.from({ length: sheetCount }, (_, i) => people.slice(i * PER_SHEET, (i + 1) * PER_SHEET));
   await each(chunks, async (chunk, i) => {
     const { pdf, diagnostics } = await renderPdf(
-      <Sheet people={chunk} sheetIndex={i + 1} sheetCount={sheetCount} fonts={faces} />,
+      <Sheet people={chunk} sheetIndex={i + 1} sheetCount={sheetCount} total={total} fonts={faces} />,
       { fonts: bytes as any }
     );
     collect("print sheet", diagnostics as Note[]);
     await writeFile(join(OUT, "sheets", `sheet-${String(i + 1).padStart(2, "0")}.pdf`), pdf);
   });
-}
-
-if (wants("wall")) {
-  const { html, diagnostics } = await render(<Wall people={people} fonts={faces} />);
-  collect("wall", diagnostics as Note[]);
-  await writeFile(join(OUT, "wall.html"), html);
 }
 
 // ---- the receipt -----------------------------------------------------------
@@ -237,7 +245,6 @@ function services() {
   if (wants("page")) parts.push(`${total} pages`);
   if (wants("card")) parts.push(`${total} cards`);
   if (wants("sheets")) parts.push(`${sheetCount} PDFs`);
-  if (wants("wall")) parts.push("1 wall");
   return parts.join(" · ");
 }
 

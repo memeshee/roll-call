@@ -10,10 +10,12 @@ import { Column, Grid, Heading, Row, Span, Text } from "@hyper-elements/react";
 import { paper } from "./theme.js";
 import { COLS, density, type Inks } from "./weave.js";
 
-const inkOf = (v: Inks): string => {
+/** The same weave on paper stock and knocked out of an ink band: the first ink
+ *  flips to the paper colour so the pattern never disappears into its ground. */
+const inkOf = (v: Inks, tone: "paper" | "ink"): string => {
   switch (v) {
     case 1:
-      return paper.ink;
+      return tone === "ink" ? paper.stock : paper.ink;
     case 2:
       return paper.blue;
     case 3:
@@ -31,10 +33,12 @@ export function Weave({
   cells,
   cell = 12,
   gap = 3,
+  tone = "paper",
 }: {
   cells: Inks[];
   cell?: number;
   gap?: number;
+  tone?: "paper" | "ink";
 }) {
   return (
     <Column style={{ gap: 0 }}>
@@ -43,7 +47,7 @@ export function Weave({
           // An empty cell is deliberate: the engine writes the height onto the
           // table cell itself, so a bare paper cell keeps its size in email and
           // leaves nothing behind in the plain-text version.
-          <Column key={i} style={{ backgroundColor: inkOf(v), height: cell }} />
+          <Column key={i} style={{ backgroundColor: inkOf(v, tone), height: cell }} />
         ))}
       </Grid>
     </Column>
@@ -92,6 +96,8 @@ export function WeaveSpec({
   color?: string;
   inkColor?: string;
 }) {
+  // Two inks + paper, five rows, mirrored: the rules are printed on the thing
+  // itself so the pattern is a stated system rather than a texture.
   return (
     <Row style={{ gap: 0 }}>
       <Column style={{ flex: 1 }}>

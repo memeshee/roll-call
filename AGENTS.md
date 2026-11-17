@@ -13,7 +13,7 @@ npm run make -- --limit 12   # render a small run, then look at dist/
 npm run clients    # preview the welcome email in Outlook, Gmail, Apple Mail
 ```
 
-`npm run check` is the gate. It is cheap, it runs the accessibility plugin and
+`npm run corrections` re-renders only what a correction touched; `npm run check` is the gate. It is cheap, it runs the accessibility plugin and
 the email-client models, and it is the only thing that should decide whether a
 render is good enough to keep.
 
@@ -43,7 +43,12 @@ this kit.
 6. **No glyph the fonts don't have.** `№` rendered as a tofu box in the story
    card. Use `No.` — the engine cannot warn about a missing glyph, because only
    the renderer knows.
-7. **Contrast is checked, not eyeballed.** `paper.red` (`#FF4A1C`) is a shape
+7. **The weave has a quality floor, not just a uniqueness one.** `assertWeave()`
+   runs over every name before anything renders: ink between 42% and 78%, no empty row,
+   no solid row, no row identical to the one above it, at least two accent cells. The
+   first unconstrained version failed 21 of 240 names — unique, and still ugly. If you
+   change the generator, run the full roster through the assertion, not one sample.
+8. **Contrast is checked, not eyeballed.** `paper.red` (`#FF4A1C`) is a shape
    colour: it is 2.9:1 on paper and fails body text. Text in the accent uses
    `paper.redInk` (`#BE320F`, 4.9:1). On the dark bands, use `paper.red`.
 

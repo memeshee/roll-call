@@ -6,7 +6,7 @@
   "perSheet": 9,
   "distinctNames": 240,
   "weaveCollisions": 0,
-  "seconds": 134.5
+  "seconds": 136.8
  },
  "diagnostics": [
   {
@@ -19,11 +19,19 @@
   },
   {
    "where": "welcome email",
-   "code": "email/more-checks",
+   "code": "email/outlook-degraded",
    "severity": "info",
-   "occurrences": 241,
-   "message": "Email client checks (what classic Outlook, Gmail, Apple Mail and other clients remove or change, from caniemail's tables and captures of the real clients) come from @hyper-elements/email-clients",
-   "path": "root"
+   "occurrences": 18,
+   "message": "borderRadius on this Button in classic Outlook: square corners",
+   "path": "root.children[4].children[0].style.borderRadius"
+  },
+  {
+   "where": "welcome email",
+   "code": "email/degraded",
+   "severity": "info",
+   "occurrences": 1,
+   "message": "hover on this Button in some email clients: no change (where it shows, keyboard focus gets it too)",
+   "path": "root.children[4].children[0].hover"
   },
   {
    "where": "badge page",
@@ -34,12 +42,12 @@
    "path": "root.children[0].children[0].children[1].children[0]"
   },
   {
-   "where": "wall",
-   "code": "page/lint-text-size",
+   "where": "welcome email",
+   "code": "email/more-checks",
    "severity": "info",
-   "occurrences": 13,
-   "message": "This text is 13px, under 14px",
-   "path": "root.children[0].children[1]"
+   "occurrences": 240,
+   "message": "Email client checks (what classic Outlook, Gmail, Apple Mail and other clients remove or change, from caniemail's tables and captures of the real clients) come from @hyper-elements/email-clients",
+   "path": "root"
   }
  ],
  "errors": []
