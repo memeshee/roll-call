@@ -1,0 +1,241 @@
+name,email,role,org,ticket
+Grace Vermeulen,grace.vermeulen@example.com,Type designer,Broadleaf,Full pass
+Mira Bennani,mira.bennani@example.com,Staff engineer,Broadleaf,Speaker
+Amara Demir,amara.demir@example.com,Frontend engineer,Tidepool,Full pass
+Ines Raman,ines.raman@example.com,Product designer,Half Title,Crew
+Sofia O'Shea,sofia.o.shea@example.com,Founder,Half Title,Speaker
+Olamide Mori,olamide.mori@example.com,Illustrator,Tidepool,Full pass
+Sinead Castillo,sinead.castillo@example.com,Frontend engineer,Marble Arch,Speaker
+Kwame O'Shea,kwame.o.shea@example.com,Devrel,Copperplate,Full pass
+Noor Bennani,noor.bennani@example.com,Staff engineer,Tidepool,Full pass
+Yusuf de Vries,yusuf.de.vries@example.com,Founder,Signalfire,Press
+Halima de Vries,halima.de.vries@example.com,CTO,Broadleaf,Full pass
+Mira Vargas,mira.vargas@example.com,Independent,Orrery,Crew
+Sinead Rahman,sinead.rahman@example.com,Independent,Grain Press,Speaker
+Hugo Zola,hugo.zola@example.com,Independent,Copperplate,Speaker
+Amara Karim,amara.karim@example.com,Founder,Golden Hour,Student
+Anouk Haddad,anouk.haddad@example.com,Design lead,Copperplate,Full pass
+Felix Bennani,felix.bennani@example.com,Staff engineer,Studio Marrow,Full pass
+Saoirse Gallagher,saoirse.gallagher@example.com,Data engineer,Fieldnote,Full pass
+Ilse Haddad,ilse.haddad@example.com,Product designer,Copperplate,Student
+Aylin O'Shea,aylin.o.shea@example.com,Support lead,Half Title,Student
+Renata Novak,renata.novak@example.com,Platform engineer,Marble Arch,Speaker
+Mateo Fischer,mateo.fischer@example.com,Independent,Orrery,Crew
+Saoirse Mensah,saoirse.mensah@example.com,Researcher,Signalfire,Full pass
+Émile Hopper,.mile.hopper@example.com,Data engineer,Marble Arch,Full pass
+Noor Hopper,noor.hopper@example.com,Staff engineer,Loopwork,Full pass
+Elin Raman,elin.raman@example.com,Devrel,Golden Hour,Full pass
+Kwame Halvorsen,kwame.halvorsen@example.com,Design lead,Fieldnote,Full pass
+Rasheed Karim,rasheed.karim@example.com,Staff engineer,Nine Volt,Full pass
+Amara Nair,amara.nair@example.com,Type designer,Signalfire,Speaker
+Chiara Almeida,chiara.almeida@example.com,Independent,Signalfire,Full pass
+Mateo Rahman,mateo.rahman@example.com,Type designer,Kestrel & Co,Student
+Amara Mehra,amara.mehra@example.com,Eng manager,Tidepool,Full pass
+Kaito Mori,kaito.mori@example.com,Type designer,Kestrel & Co,Speaker
+Ravi Lovelace,ravi.lovelace@example.com,Support lead,Northbound,Full pass
+Mateo Nair,mateo.nair@example.com,Build tooling,Kestrel & Co,Crew
+Diego Almeida,diego.almeida@example.com,Researcher,Wren Labs,Crew
+Bilal Esposito,bilal.esposito@example.com,Data engineer,Golden Hour,Student
+Émile Mensah,.mile.mensah@example.com,Platform engineer,Copperplate,Student
+Aylin de Vries,aylin.de.vries@example.com,Support lead,Golden Hour,Speaker
+Sofia Fischer,sofia.fischer@example.com,Frontend engineer,Tidepool,Student
+Noor de Vries,noor.de.vries@example.com,Independent,Golden Hour,Speaker
+Lena Lindqvist,lena.lindqvist@example.com,Illustrator,Studio Marrow,Press
+Yusuf Hopper,yusuf.hopper@example.com,Product designer,Golden Hour,Speaker
+Elin Okafor,elin.okafor@example.com,Devrel,Nine Volt,Student
+Ravi de Vries,ravi.de.vries@example.com,Build tooling,Studio Marrow,Student
+Oskar Kowalska,oskar.kowalska@example.com,Design lead,Marble Arch,Press
+Zara Sokolov,zara.sokolov@example.com,Data engineer,Studio Marrow,Full pass
+Halima Demir,halima.demir@example.com,Support lead,Paper Union,Speaker
+Bilal Vermeulen,bilal.vermeulen@example.com,Eng manager,Signalfire,Student
+Ada Haddad,ada.haddad@example.com,Type designer,Nine Volt,Press
+Beatrix Kowalska,beatrix.kowalska@example.com,Independent,Kestrel & Co,Full pass
+Ines Lovelace,ines.lovelace@example.com,Product designer,Paper Union,Press
+Hugo Petrova,hugo.petrova@example.com,Founder,Signalfire,Full pass
+Ravi Mehra,ravi.mehra@example.com,Type designer,Orrery,Student
+Marta Castillo,marta.castillo@example.com,Founder,Golden Hour,Student
+Theo Brandt,theo.brandt@example.com,Product designer,Orrery,Speaker
+Nikolai Castillo,nikolai.castillo@example.com,Frontend engineer,Loopwork,Full pass
+Marta Lindqvist,marta.lindqvist@example.com,Type designer,Nine Volt,Full pass
+Felix Kowalska,felix.kowalska@example.com,Founder,Tidepool,Full pass
+Ada Yilmaz,ada.yilmaz@example.com,Data engineer,Kestrel & Co,Full pass
+Beatrix Novak,beatrix.novak@example.com,Staff engineer,Kestrel & Co,Student
+Rasheed Hopper,rasheed.hopper@example.com,Illustrator,Copperplate,Student
+Diego Ferraresi,diego.ferraresi@example.com,Independent,Orrery,Press
+Sofia Lovelace,sofia.lovelace@example.com,Type designer,Orrery,Student
+Halima Duarte,halima.duarte@example.com,Staff engineer,Signalfire,Student
+Ines Novak,ines.novak@example.com,Researcher,Half Title,Crew
+Lena Okafor,lena.okafor@example.com,Design lead,Analytical Engines,Full pass
+Oskar Halvorsen,oskar.halvorsen@example.com,Editor,Studio Marrow,Full pass
+Beatrix Bauer,beatrix.bauer@example.com,Editor,Copperplate,Full pass
+Kwame Vogel,kwame.vogel@example.com,Frontend engineer,Grain Press,Press
+Nikolai Brandt,nikolai.brandt@example.com,Support lead,Marble Arch,Full pass
+Lena Brandt,lena.brandt@example.com,Eng manager,Paper Union,Full pass
+Saoirse Vargas,saoirse.vargas@example.com,Staff engineer,Marble Arch,Crew
+Chiara Karim,chiara.karim@example.com,Product designer,Copperplate,Crew
+Arjun Demir,arjun.demir@example.com,Riso printer,Copperplate,Full pass
+Felix Yilmaz,felix.yilmaz@example.com,Eng manager,Paper Union,Full pass
+Chiara Bauer,chiara.bauer@example.com,Support lead,Analytical Engines,Student
+Jun Brandt,jun.brandt@example.com,Build tooling,Grain Press,Press
+Tomás Almeida,tom.s.almeida@example.com,Data engineer,Nine Volt,Crew
+Ravi Ferraresi,ravi.ferraresi@example.com,Support lead,Marble Arch,Full pass
+Bilal Bennani,bilal.bennani@example.com,Build tooling,Half Title,Full pass
+Lena Costa,lena.costa@example.com,CTO,Half Title,Full pass
+Bilal Nair,bilal.nair@example.com,Frontend engineer,Tidepool,Press
+Noor Brandt,noor.brandt@example.com,Support lead,Golden Hour,Full pass
+Mira Demir,mira.demir@example.com,CTO,Broadleaf,Speaker
+Yusuf Adeyemi,yusuf.adeyemi@example.com,Support lead,Kestrel & Co,Speaker
+Hugo de Vries,hugo.de.vries@example.com,Type designer,Signalfire,Student
+Marta Mori,marta.mori@example.com,Editor,Wren Labs,Full pass
+Sinead Fischer,sinead.fischer@example.com,Product designer,Golden Hour,Speaker
+Mira Mori,mira.mori@example.com,Founder,Studio Marrow,Full pass
+Hugo Lindqvist,hugo.lindqvist@example.com,Frontend engineer,Analytical Engines,Speaker
+Hugo O'Shea,hugo.o.shea@example.com,Eng manager,Broadleaf,Full pass
+Olamide Esposito,olamide.esposito@example.com,Independent,Nine Volt,Press
+Diego Vermeulen,diego.vermeulen@example.com,Eng manager,Loopwork,Press
+Kaito Mensah,kaito.mensah@example.com,Frontend engineer,Kestrel & Co,Speaker
+Theo Adeyemi,theo.adeyemi@example.com,Type designer,Loopwork,Full pass
+Elin Bennani,elin.bennani@example.com,Illustrator,Tidepool,Press
+Mira Yilmaz,mira.yilmaz@example.com,Riso printer,Analytical Engines,Press
+Chiara Rahman,chiara.rahman@example.com,Product designer,Orrery,Crew
+Renata Karim,renata.karim@example.com,Design lead,Kestrel & Co,Crew
+Sinead Demir,sinead.demir@example.com,Product designer,Wren Labs,Full pass
+Hugo Vermeulen,hugo.vermeulen@example.com,Type designer,Fieldnote,Speaker
+Felix Novak,felix.novak@example.com,Independent,Grain Press,Crew
+Grace Fischer,grace.fischer@example.com,Type designer,Fieldnote,Full pass
+Ravi Sokolov,ravi.sokolov@example.com,Researcher,Loopwork,Press
+Felix Mori,felix.mori@example.com,Researcher,Paper Union,Press
+Elin Almeida,elin.almeida@example.com,Independent,Signalfire,Full pass
+Jonas Fischer,jonas.fischer@example.com,Type designer,Tidepool,Full pass
+Noor Haddad,noor.haddad@example.com,Design lead,Broadleaf,Speaker
+Saoirse Duarte,saoirse.duarte@example.com,Support lead,Northbound,Press
+Sinead Mori,sinead.mori@example.com,Independent,Orrery,Speaker
+Anouk Castillo,anouk.castillo@example.com,Riso printer,Half Title,Press
+Mira Adeyemi,mira.adeyemi@example.com,Frontend engineer,Northbound,Full pass
+Anouk Raman,anouk.raman@example.com,Support lead,Half Title,Student
+Ada Petrova,ada.petrova@example.com,Editor,Copperplate,Press
+Mateo Hopper,mateo.hopper@example.com,Design lead,Broadleaf,Full pass
+Sofia Vargas,sofia.vargas@example.com,Researcher,Signalfire,Full pass
+Arjun Rahman,arjun.rahman@example.com,Data engineer,Kestrel & Co,Student
+Olamide Vargas,olamide.vargas@example.com,Riso printer,Half Title,Full pass
+Sofia Novak,sofia.novak@example.com,Devrel,Marble Arch,Press
+Jonas Mehra,jonas.mehra@example.com,Product designer,Marble Arch,Full pass
+Aylin Bauer,aylin.bauer@example.com,Frontend engineer,Marble Arch,Full pass
+Renata O'Shea,renata.o.shea@example.com,Researcher,Kestrel & Co,Crew
+Grace Lovelace,grace.lovelace@example.com,Riso printer,Studio Marrow,Speaker
+Jun Rahman,jun.rahman@example.com,Staff engineer,Loopwork,Speaker
+Mateo Esposito,mateo.esposito@example.com,Type designer,Half Title,Crew
+Lena Watanabe,lena.watanabe@example.com,Frontend engineer,Nine Volt,Full pass
+Anouk Rahman,anouk.rahman@example.com,Independent,Marble Arch,Crew
+Kaito Gallagher,kaito.gallagher@example.com,Illustrator,Marble Arch,Full pass
+Lena Halvorsen,lena.halvorsen@example.com,Eng manager,Signalfire,Crew
+Grace Adeyemi,grace.adeyemi@example.com,Type designer,Fieldnote,Full pass
+Aylin Kowalska,aylin.kowalska@example.com,Product designer,Orrery,Student
+Diego Idrissi,diego.idrissi@example.com,Eng manager,Paper Union,Full pass
+Chiara Lindqvist,chiara.lindqvist@example.com,Product designer,Grain Press,Press
+Nikolai Nair,nikolai.nair@example.com,Editor,Signalfire,Full pass
+Noor Nair,noor.nair@example.com,Support lead,Golden Hour,Press
+Sofia Demir,sofia.demir@example.com,Staff engineer,Paper Union,Full pass
+Grace Duarte,grace.duarte@example.com,Build tooling,Golden Hour,Full pass
+Olamide de Vries,olamide.de.vries@example.com,Illustrator,Kestrel & Co,Full pass
+Sofia Raman,sofia.raman@example.com,Illustrator,Marble Arch,Full pass
+Olamide Brandt,olamide.brandt@example.com,Founder,Fieldnote,Full pass
+Jun Idrissi,jun.idrissi@example.com,Eng manager,Loopwork,Speaker
+Émile O'Shea,.mile.o.shea@example.com,Riso printer,Tidepool,Full pass
+Jonas Adeyemi,jonas.adeyemi@example.com,Platform engineer,Kestrel & Co,Full pass
+Bilal Fischer,bilal.fischer@example.com,Type designer,Half Title,Crew
+Lena Mori,lena.mori@example.com,CTO,Half Title,Speaker
+Felix Watanabe,felix.watanabe@example.com,Frontend engineer,Wren Labs,Crew
+Rasheed Brandt,rasheed.brandt@example.com,Design lead,Orrery,Crew
+Beatrix Bennani,beatrix.bennani@example.com,Staff engineer,Loopwork,Full pass
+Lena Lovelace,lena.lovelace@example.com,Product designer,Fieldnote,Crew
+Oskar Haddad,oskar.haddad@example.com,Type designer,Loopwork,Student
+Tomás Kowalska,tom.s.kowalska@example.com,Devrel,Nine Volt,Full pass
+Rasheed Vermeulen,rasheed.vermeulen@example.com,Build tooling,Analytical Engines,Full pass
+Olamide Haddad,olamide.haddad@example.com,Platform engineer,Grain Press,Full pass
+Noor Bauer,noor.bauer@example.com,Editor,Studio Marrow,Full pass
+Aylin Bennani,aylin.bennani@example.com,Design lead,Orrery,Press
+Ines Mensah,ines.mensah@example.com,Founder,Golden Hour,Student
+Jun Esposito,jun.esposito@example.com,Product designer,Wren Labs,Press
+Saoirse Idrissi,saoirse.idrissi@example.com,Eng manager,Marble Arch,Speaker
+Oskar Demir,oskar.demir@example.com,Product designer,Half Title,Crew
+Renata Vermeulen,renata.vermeulen@example.com,Independent,Half Title,Full pass
+Hugo Rahman,hugo.rahman@example.com,Type designer,Golden Hour,Full pass
+Zara Almeida,zara.almeida@example.com,Illustrator,Golden Hour,Full pass
+Hugo Almeida,hugo.almeida@example.com,Type designer,Wren Labs,Crew
+Zara Nair,zara.nair@example.com,Build tooling,Fieldnote,Speaker
+Ines Kowalska,ines.kowalska@example.com,Eng manager,Copperplate,Crew
+Saoirse Castillo,saoirse.castillo@example.com,Support lead,Kestrel & Co,Speaker
+Beatrix Duarte,beatrix.duarte@example.com,Support lead,Northbound,Full pass
+Aylin Vermeulen,aylin.vermeulen@example.com,Illustrator,Loopwork,Student
+Halima Mehra,halima.mehra@example.com,Type designer,Nine Volt,Full pass
+Grace Kowalska,grace.kowalska@example.com,Editor,Broadleaf,Full pass
+Yusuf Haddad,yusuf.haddad@example.com,Riso printer,Grain Press,Student
+Saoirse Nair,saoirse.nair@example.com,Type designer,Analytical Engines,Crew
+Arjun Sokolov,arjun.sokolov@example.com,Build tooling,Studio Marrow,Full pass
+Yusuf Brandt,yusuf.brandt@example.com,Eng manager,Copperplate,Full pass
+Anouk Okafor,anouk.okafor@example.com,Independent,Studio Marrow,Press
+Yusuf Karim,yusuf.karim@example.com,Platform engineer,Grain Press,Full pass
+Halima Hopper,halima.hopper@example.com,Independent,Wren Labs,Press
+Anouk Yilmaz,anouk.yilmaz@example.com,Riso printer,Paper Union,Full pass
+Felix O'Shea,felix.o.shea@example.com,Eng manager,Analytical Engines,Student
+Priya Kowalska,priya.kowalska@example.com,Support lead,Northbound,Crew
+Lena Fischer,lena.fischer@example.com,Illustrator,Kestrel & Co,Full pass
+Nikolai Costa,nikolai.costa@example.com,Type designer,Signalfire,Press
+Hugo Mensah,hugo.mensah@example.com,Illustrator,Golden Hour,Full pass
+Halima Mensah,halima.mensah@example.com,CTO,Northbound,Press
+Kaito Mehra,kaito.mehra@example.com,Data engineer,Paper Union,Crew
+Noor Demir,noor.demir@example.com,Support lead,Fieldnote,Press
+Beatrix Fischer,beatrix.fischer@example.com,Data engineer,Broadleaf,Full pass
+Felix Lovelace,felix.lovelace@example.com,Founder,Marble Arch,Crew
+Grace Mori,grace.mori@example.com,Type designer,Broadleaf,Crew
+Diego Karim,diego.karim@example.com,Eng manager,Analytical Engines,Speaker
+Saoirse Costa,saoirse.costa@example.com,Support lead,Northbound,Speaker
+Lena Castillo,lena.castillo@example.com,Researcher,Signalfire,Press
+Nikolai Petrova,nikolai.petrova@example.com,Editor,Signalfire,Crew
+Lena Nair,lena.nair@example.com,Editor,Wren Labs,Full pass
+Rasheed Fischer,rasheed.fischer@example.com,Editor,Copperplate,Crew
+Mira Raman,mira.raman@example.com,Platform engineer,Half Title,Full pass
+Mateo Gallagher,mateo.gallagher@example.com,Staff engineer,Kestrel & Co,Press
+Anouk de Vries,anouk.de.vries@example.com,Researcher,Golden Hour,Press
+Theo Karim,theo.karim@example.com,Support lead,Wren Labs,Speaker
+Arjun Vermeulen,arjun.vermeulen@example.com,Editor,Analytical Engines,Press
+Mateo Vermeulen,mateo.vermeulen@example.com,Eng manager,Paper Union,Crew
+Jonas Almeida,jonas.almeida@example.com,Researcher,Tidepool,Full pass
+Priya Vogel,priya.vogel@example.com,Design lead,Marble Arch,Press
+Ravi Duarte,ravi.duarte@example.com,Founder,Northbound,Full pass
+Ada Vogel,ada.vogel@example.com,Build tooling,Golden Hour,Crew
+Halima Brandt,halima.brandt@example.com,Design lead,Wren Labs,Crew
+Kaito Esposito,kaito.esposito@example.com,Build tooling,Fieldnote,Student
+Kaito Watanabe,kaito.watanabe@example.com,Build tooling,Kestrel & Co,Press
+Oskar Castillo,oskar.castillo@example.com,Eng manager,Half Title,Crew
+Aylin Adeyemi,aylin.adeyemi@example.com,Riso printer,Paper Union,Full pass
+Mateo Lovelace,mateo.lovelace@example.com,Devrel,Nine Volt,Student
+Priya Yilmaz,priya.yilmaz@example.com,Eng manager,Orrery,Press
+Nikolai Novak,nikolai.novak@example.com,Data engineer,Golden Hour,Crew
+Tomás Demir,tom.s.demir@example.com,Founder,Analytical Engines,Student
+Grace Watanabe,grace.watanabe@example.com,CTO,Broadleaf,Press
+Nikolai Almeida,nikolai.almeida@example.com,Staff engineer,Fieldnote,Press
+Sinead Mensah,sinead.mensah@example.com,Eng manager,Nine Volt,Speaker
+Émile Castillo,.mile.castillo@example.com,Independent,Marble Arch,Student
+Theo Esposito,theo.esposito@example.com,Researcher,Tidepool,Full pass
+Renata Watanabe,renata.watanabe@example.com,Design lead,Nine Volt,Press
+Theo de Vries,theo.de.vries@example.com,Frontend engineer,Orrery,Student
+Beatrix Vogel,beatrix.vogel@example.com,Build tooling,Marble Arch,Speaker
+Marta de Vries,marta.de.vries@example.com,Researcher,Copperplate,Speaker
+Marta Vermeulen,marta.vermeulen@example.com,Platform engineer,Kestrel & Co,Crew
+Marta Halvorsen,marta.halvorsen@example.com,Riso printer,Nine Volt,Crew
+Émile Adeyemi,.mile.adeyemi@example.com,Frontend engineer,Marble Arch,Full pass
+Amara Costa,amara.costa@example.com,Editor,Half Title,Press
+Oskar Vargas,oskar.vargas@example.com,Build tooling,Kestrel & Co,Press
+Anouk Watanabe,anouk.watanabe@example.com,Build tooling,Orrery,Crew
+Priya Watanabe,priya.watanabe@example.com,Product designer,Signalfire,Full pass
+Jonas Duarte,jonas.duarte@example.com,Frontend engineer,Marble Arch,Crew
+Renata Mori,renata.mori@example.com,Build tooling,Northbound,Student
+Lena Esposito,lena.esposito@example.com,Product designer,Kestrel & Co,Press
+Rasheed Raman,rasheed.raman@example.com,Frontend engineer,Kestrel & Co,Full pass
+Halima Bennani,halima.bennani@example.com,Build tooling,Half Title,Student
+Sofia Okafor,sofia.okafor@example.com,Data engineer,Half Title,Press
+Saoirse Yilmaz,saoirse.yilmaz@example.com,Type designer,Marble Arch,Press
+Saoirse Bauer,saoirse.bauer@example.com,Researcher,Marble Arch,Press
+Anouk Fischer,anouk.fischer@example.com,Build tooling,Broadleaf,Student

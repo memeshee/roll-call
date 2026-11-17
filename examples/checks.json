@@ -1,0 +1,46 @@
+{
+ "run": {
+  "input": "data/assembly-attendees.csv",
+  "attendees": 240,
+  "sheets": 27,
+  "perSheet": 9,
+  "distinctNames": 240,
+  "weaveCollisions": 0,
+  "seconds": 134.5
+ },
+ "diagnostics": [
+  {
+   "where": "welcome email",
+   "code": "email/lint-text-size",
+   "severity": "info",
+   "occurrences": 10,
+   "message": "This text is 11px, under 14px",
+   "path": "root.children[0].children[0].children[1].children[0]"
+  },
+  {
+   "where": "welcome email",
+   "code": "email/more-checks",
+   "severity": "info",
+   "occurrences": 241,
+   "message": "Email client checks (what classic Outlook, Gmail, Apple Mail and other clients remove or change, from caniemail's tables and captures of the real clients) come from @hyper-elements/email-clients",
+   "path": "root"
+  },
+  {
+   "where": "badge page",
+   "code": "page/lint-text-size",
+   "severity": "info",
+   "occurrences": 15,
+   "message": "This text is 11px, under 14px",
+   "path": "root.children[0].children[0].children[1].children[0]"
+  },
+  {
+   "where": "wall",
+   "code": "page/lint-text-size",
+   "severity": "info",
+   "occurrences": 13,
+   "message": "This text is 13px, under 14px",
+   "path": "root.children[0].children[1]"
+  }
+ ],
+ "errors": []
+}

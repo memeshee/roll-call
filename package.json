@@ -1,0 +1,37 @@
+{
+  "name": "roll-call-badge-kit",
+  "version": "1.0.0",
+  "description": "One CSV of attendees in, a whole event badge run out: personalised print sheets, welcome emails, badge pages and story cards, all from one Hyper Elements theme.",
+  "scripts": {
+    "make": "tsx scripts/make.tsx",
+    "make:fast": "tsx scripts/make.tsx --limit 24",
+    "check": "hyper-elements check templates/",
+    "clients": "tsx scripts/clients.tsx",
+    "people": "tsx scripts/gen-people.ts",
+    "shots": "bash scripts/shots.sh"
+  },
+  "keywords": [],
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@hyper-elements/email-clients": "^0.4.16",
+    "@hyper-elements/react": "^0.4.8",
+    "@react-pdf/renderer": "^4.9.0",
+    "@resvg/resvg-js": "^2.6.2",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "satori": "^0.33.5"
+  },
+  "devDependencies": {
+    "@hyper-elements/cli": "^0.2.10",
+    "@hyper-elements/lint": "^0.1.7",
+    "@types/node": "^26.6.6",
+    "@types/react": "^19.3.0",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=22"
+  }
+}
